@@ -11,10 +11,10 @@ With a [diverse cohort](https://ghcorps.org/what-we-do/spotlight-current-fellows
 
 ###  **🧠 Strategic Thinking in a Shifting Climate**
 
-Public health leaders must be prepared to navigate underfunded systems and shifting political landscapes. This fellowship emphasized tools such as [resilience](https://l2tprogram.org/exercises/the-resilience-plan-the-four-ss/) planning, [managing up](https://www.managementcenter.org/check-ins/) in the workspace, and [human centered design](https://www.designkit.org/)– skills that have already proved to be practical in my day-to-day work.
+Public health leaders must be prepared to navigate underfunded systems and shifting political landscapes. This fellowship emphasized tools such as [resilience](https://l2tprogram.org/exercises/the-resilience-plan-the-four-ss/) planning, [managing up](https://www.managementcenter.org/resources/) in the workspace, and [human centered design](https://www.designkit.org/methods.html)– skills that have already proved to be practical in my day-to-day work.
 
 ###  **📖 Storytelling is a Leadership Tool**
 
-As a data analyst, I know that numbers inform, however, numbers don’t convey emotion. [Storytelling in public health](https://hsph.harvard.edu/news/narrative-course-public-health/) has the ability to  move beyond the numbers and inform with empathy. This experience deepened my understanding of how personal narrative can shift perspective and drive long term sustainable change. 
+As a data analyst, I know that numbers inform, however, numbers don’t convey emotion. Storytelling in public health has the ability to  move beyond the numbers and inform with empathy. This experience deepened my understanding of how [personal narrative](https://commonslibrary.org/the-power-of-story-the-story-of-self-us-and-now/#Introduction) can shift perspective and drive long term sustainable change. 
 
 📌 *Want to connect or chat about leadership in data and public health? [Reach out on LinkedIn](linkedin.com/in/juliette-mpano).*
