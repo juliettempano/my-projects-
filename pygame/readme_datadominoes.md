@@ -1,10 +1,10 @@
-# 🎮 Data Dominoes Game
+# 🎮 Data Dominoes Game - IN PROGRESS
 
-A simple educational game built using Python and Pygame to demonstrate how data literacy influences workplace decisions.
+A simple educational data literacy game built using Python and Pygame.
 
 ## Features
 - Drag-and-drop domino mechanics
-- Real-world data concepts like "Paper Forms" and "Not Sustainable"
+- Real-world data concepts
 - Pop-up explanations after matches
 
 ## Run the Game
