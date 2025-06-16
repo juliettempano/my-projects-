@@ -1,4 +1,4 @@
-# 🎮 Data Dominoes Game - IN PROGRESS
+# 🎮 Data Dominoes Game - (in progress)
 
 A simple educational data literacy game built using Python and Pygame.
 
