@@ -1,8 +1,9 @@
-## **PMDD Symptom Severity Analysis** ##
+## **Identifying patient factors associated with higher pmdd severity to support early intervention strategies
+** ##
 
 **Project Overview**
 
-This project explores relationships between stress levels, lifestyle factors, age groups, and symptom severity in women’s health data related to PMDD and mood disorders.
+This project explores various factors such as stress levels, lifestyle factors, age groups, and symptom severity in women’s health dataset 
 
 **Objectives**
 
