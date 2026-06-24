@@ -17,4 +17,7 @@ Public health leaders must be prepared to navigate underfunded systems and shift
 
 As a data analyst, I know that numbers inform; however, numbers don’t convey emotion. Storytelling in public health has the ability to  move beyond the numbers and inform with empathy. This experience deepened my understanding of how [personal narrative](https://commonslibrary.org/the-power-of-story-the-story-of-self-us-and-now/#Introduction) can be used as a transformative tool in social impact work.
 
+### Creativity is Key 
+During my fellowship I was able to think more creatively as we wrapped up our final projects. One of my topics of interest was game-based learning in public health. Want to learn more? Check out Data Dominoes https://replit.com/@juliettempano/data-dominoes-demo I developed using Python
+
 📌 *Want to connect or chat about leadership in data and public health? [Reach out on LinkedIn](https://linkedin.com/in/juliette-mpano).*
