@@ -177,10 +177,6 @@ GROUP BY age_bracket
 ORDER BY SOS desc;
 
 -- for patients with PMDD symptoms with irregular cycles, the age group that is most affected is 21-25 yr olds with 6.33 average severity score 
--- which is consistent with what we have been seeing 21-25 being the most affected by PMDD
--- this can be explained by the irregular cycles having a higher chance of having PMDD
-
-
 
 SELECT *
 FROM womens_health;
@@ -203,7 +199,6 @@ GROUP BY age_bracket
 ORDER BY SOS desc;
 
 -- for patients with PMDD symptoms with irregular cycles, the age group that is most affected is 35-40  yr olds with 5.35 average severity score 
--- this could be explained by ... 
 
 
 
